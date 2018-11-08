@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c4db15b9-d492-4077-9d29-3e373b626c89" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/examples/cv.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/examples/cv.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/cv.tex" beforeDir="false" afterPath="$PROJECT_DIR$/examples/cv.tex" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/examples/resume.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/examples/resume.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/resume.tex" beforeDir="false" afterPath="$PROJECT_DIR$/examples/resume.tex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/resume/education.tex" beforeDir="false" afterPath="$PROJECT_DIR$/examples/resume/education.tex" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/examples/resume/experience.tex" beforeDir="false" afterPath="$PROJECT_DIR$/examples/resume/experience.tex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/resume/summary.tex" beforeDir="false" afterPath="$PROJECT_DIR$/examples/resume/summary.tex" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -41,12 +36,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="tex" value="173" />
+          <entry key="tex" value="177" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="LaTeX source file" value="173" />
+          <entry key="LaTeX source file" value="177" />
         </counts>
       </usages-collector>
     </session>
@@ -74,8 +69,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/examples/resume/experience.tex">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="101">
-              <caret line="65" lean-forward="true" selection-start-line="65" selection-end-line="65" />
+            <state relative-caret-position="316">
+              <caret line="34" column="160" selection-start-line="34" selection-start-column="160" selection-end-line="34" selection-end-column="160" />
             </state>
           </provider>
         </entry>
@@ -223,12 +218,12 @@
       <option name="presentableId" value="Default" />
       <updated>1541654280804</updated>
       <workItem from="1541654283461" duration="40000" />
-      <workItem from="1541654441201" duration="2463000" />
+      <workItem from="1541654441201" duration="2943000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2503000" />
+    <option name="totallyTimeSpent" value="2983000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="39" y="28" width="1327" height="740" extended-state="6" />
@@ -247,7 +242,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32972136" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.32972136" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -271,8 +266,8 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32972136" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32972136" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32972136" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -322,8 +317,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/examples/resume/experience.tex">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="101">
-          <caret line="65" lean-forward="true" selection-start-line="65" selection-end-line="65" />
+        <state relative-caret-position="316">
+          <caret line="34" column="160" selection-start-line="34" selection-start-column="160" selection-end-line="34" selection-end-column="160" />
         </state>
       </provider>
     </entry>
