@@ -4,10 +4,7 @@
     <list default="true" id="c4db15b9-d492-4077-9d29-3e373b626c89" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/examples/resume.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/examples/resume.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/resume.tex" beforeDir="false" afterPath="$PROJECT_DIR$/examples/resume.tex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/resume/education.tex" beforeDir="false" afterPath="$PROJECT_DIR$/examples/resume/education.tex" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/examples/resume/experience.tex" beforeDir="false" afterPath="$PROJECT_DIR$/examples/resume/experience.tex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/resume/summary.tex" beforeDir="false" afterPath="$PROJECT_DIR$/examples/resume/summary.tex" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,24 +27,26 @@
         <counts>
           <entry key="aux" value="1" />
           <entry key="png" value="1" />
-          <entry key="tex" value="8" />
+          <entry key="tex" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Image" value="1" />
-          <entry key="LaTeX source file" value="7" />
+          <entry key="LaTeX source file" value="8" />
           <entry key="PLAIN_TEXT" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="tex" value="733" />
+          <entry key="tex" value="1107" />
+          <entry key="txt" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="LaTeX source file" value="733" />
+          <entry key="LaTeX source file" value="1107" />
+          <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
     </session>
@@ -57,8 +56,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/examples/resume.tex">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1028">
-              <caret line="83" column="2" selection-start-line="83" selection-start-column="2" selection-end-line="83" selection-end-column="2" />
+            <state relative-caret-position="280">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
             </state>
           </provider>
         </entry>
@@ -84,8 +83,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/examples/resume/experience.tex">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="143">
-              <caret line="46" column="5" lean-forward="true" selection-start-line="46" selection-start-column="5" selection-end-line="46" selection-end-column="5" />
+            <state relative-caret-position="208">
+              <caret line="81" lean-forward="true" selection-start-line="81" selection-end-line="81" />
             </state>
           </provider>
         </entry>
@@ -241,12 +240,27 @@
       <updated>1541654280804</updated>
       <workItem from="1541654283461" duration="40000" />
       <workItem from="1541654441201" duration="6850000" />
-      <workItem from="1541840958500" duration="6532000" />
+      <workItem from="1541840958500" duration="11868000" />
     </task>
+    <task id="LOCAL-00001" summary="M">
+      <created>1541930172387</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1541930172387</updated>
+    </task>
+    <task id="LOCAL-00002" summary="M">
+      <created>1541933044853</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1541933044853</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13422000" />
+    <option name="totallyTimeSpent" value="18758000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="39" y="28" width="1327" height="740" extended-state="6" />
@@ -276,7 +290,7 @@
       <window_info anchor="right" id="Maven Projects" order="5" />
     </layout>
     <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.2536965" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2536965" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Learn" order="3" />
@@ -290,7 +304,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32972136" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32972136" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32972136" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -305,6 +319,12 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="M" />
+    <option name="LAST_COMMIT_MESSAGE" value="M" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/examples/resume/writing.tex">
@@ -331,13 +351,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/examples/resume.tex">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1028">
-          <caret line="83" column="2" selection-start-line="83" selection-start-column="2" selection-end-line="83" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/examples/cv.aux">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-92" />
@@ -348,13 +361,6 @@
         <state relative-caret-position="-212" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/examples/cv/experience.tex">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/examples/resume/summary.tex">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -362,10 +368,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/examples/cv/experience.tex">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/resume.tex">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/examples/resume/experience.tex">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="143">
-          <caret line="46" column="5" lean-forward="true" selection-start-line="46" selection-start-column="5" selection-end-line="46" selection-end-column="5" />
+        <state relative-caret-position="208">
+          <caret line="81" lean-forward="true" selection-start-line="81" selection-end-line="81" />
         </state>
       </provider>
     </entry>
