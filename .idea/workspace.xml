@@ -3,11 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="c4db15b9-d492-4077-9d29-3e373b626c89" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/cv.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/examples/cv.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/cv/skills.tex" beforeDir="false" afterPath="$PROJECT_DIR$/examples/cv/skills.tex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/resume.pdf" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/examples/resume.tex" beforeDir="false" afterPath="$PROJECT_DIR$/examples/resume.tex" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/examples/resume/experience.tex" beforeDir="false" afterPath="$PROJECT_DIR$/examples/resume/experience.tex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/resume/summary.tex" beforeDir="false" afterPath="$PROJECT_DIR$/examples/resume/summary.tex" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,68 +13,22 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="-371362756">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="8" />
-          <entry key="project.open.time.3" value="3" />
-          <entry key="project.open.time.33" value="1" />
-          <entry key="project.open.time.37" value="1" />
-          <entry key="project.open.time.39" value="2" />
-          <entry key="project.open.time.4" value="1" />
-          <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="9" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="aux" value="2" />
-          <entry key="cls" value="1" />
-          <entry key="md" value="3" />
-          <entry key="png" value="1" />
-          <entry key="tex" value="10" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="Image" value="1" />
-          <entry key="LaTeX class file" value="1" />
-          <entry key="LaTeX source file" value="9" />
-          <entry key="Markdown" value="3" />
-          <entry key="PLAIN_TEXT" value="3" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="tex" value="1700" />
-          <entry key="txt" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="LaTeX source file" value="1700" />
-          <entry key="PLAIN_TEXT" value="1" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/examples/resume.tex">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
-              <caret line="85" column="28" lean-forward="true" selection-start-line="85" selection-start-column="28" selection-end-line="85" selection-end-column="28" />
+            <state relative-caret-position="940">
+              <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/examples/cv/skills.tex">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+            <state relative-caret-position="280">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
             </state>
           </provider>
         </entry>
@@ -85,8 +37,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="280">
-                <caret line="22" column="29" lean-forward="true" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
+              <first_editor relative-caret-position="440">
+                <caret line="22" column="29" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
               </first_editor>
               <second_editor />
             </state>
@@ -105,17 +57,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/examples/resume/experience.tex">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+            <state relative-caret-position="680">
+              <caret line="34" column="3" lean-forward="true" selection-start-line="34" selection-start-column="3" selection-end-line="34" selection-end-column="3" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/examples/resume/summary.tex">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="291">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
+            <state relative-caret-position="280">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
             </state>
           </provider>
         </entry>
@@ -125,45 +77,16 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GradleLocalSettings">
-    <option name="projectSyncType">
-      <map>
-        <entry key="$USER_HOME$/Desktop/JavaFX_SwitchingScenesTutorial/JavaFX_SwitchingScenes" value="PREVIEW" />
-        <entry key="$USER_HOME$/Desktop/rdlight" value="PREVIEW" />
-        <entry key="$USER_HOME$/Downloads/demo" value="PREVIEW" />
-        <entry key="$USER_HOME$/IdeaProjects/rdlight" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../workspaces/git_workspace/app" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../workspaces/git_workspace/emailSender" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../workspaces/git_workspace/emailsender" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../workspaces/git_workspace/epass" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../workspaces/git_workspace/jhipster_main" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../workspaces/git_workspace/lookup" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../workspaces/git_workspace/registrationDeskCentral" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../workspaces/jhipster_main/app" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../workspaces/jhipster_react" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../workspaces/jhipster_with_custom_prefix/app" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../workspaces/jhipster_without_elastic_search/app" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../workspaces/jhipster_ws" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../workspaces/jhipster_ws/app" value="PREVIEW" />
-      </map>
-    </option>
-  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/examples/resume/education.tex" />
-        <option value="$PROJECT_DIR$/examples/resume/summary.tex" />
+        <option value="$PROJECT_DIR$/examples/cv/skills.tex" />
         <option value="$PROJECT_DIR$/examples/resume.tex" />
         <option value="$PROJECT_DIR$/examples/resume/experience.tex" />
-        <option value="$PROJECT_DIR$/examples/cv/skills.tex" />
+        <option value="$PROJECT_DIR$/examples/resume/summary.tex" />
       </list>
     </option>
-  </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="157" />
@@ -177,6 +100,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -206,7 +130,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -241,7 +164,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="TestNG" factoryName="TestNG">
+    <configuration default="true" type="TestNG">
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <properties />
       <listeners />
@@ -268,7 +191,12 @@
       <workItem from="1542380793306" duration="1813000" />
       <workItem from="1542782515492" duration="41000" />
       <workItem from="1544011382003" duration="2995000" />
-      <workItem from="1545796650684" duration="554000" />
+      <workItem from="1545796650684" duration="749000" />
+      <workItem from="1545831017292" duration="52000" />
+      <workItem from="1547093286120" duration="1747000" />
+      <workItem from="1547117023277" duration="3082000" />
+      <workItem from="1547273797684" duration="21000" />
+      <workItem from="1547630370227" duration="123000" />
     </task>
     <task id="LOCAL-00001" summary="M">
       <created>1541930172387</created>
@@ -347,17 +275,24 @@
       <option name="project" value="LOCAL" />
       <updated>1542213634225</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="M">
+      <created>1545797383473</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1545797383473</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35253000" />
+    <option name="totallyTimeSpent" value="40473000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="37" y="28" width="1329" height="740" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25330225" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27272728" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Learn" order="3" />
@@ -372,13 +307,17 @@
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32972136" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32972136" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32744783" />
+      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Gradle View" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info anchor="right" id="Database" order="4" />
       <window_info anchor="right" id="Maven Projects" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Key Promoter X" order="7" />
     </layout>
     <layout-to-restore>
       <window_info content_ui="combo" id="Project" order="0" weight="0.2536965" />
@@ -407,9 +346,6 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
@@ -453,34 +389,20 @@
         <state relative-caret-position="-7200" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/examples/resume.tex">
+    <entry file="file://$PROJECT_DIR$/examples/cv/skills.tex">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="85" column="28" lean-forward="true" selection-start-line="85" selection-start-column="28" selection-end-line="85" selection-end-column="28" />
+        <state relative-caret-position="280">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="280">
-            <caret line="22" column="29" lean-forward="true" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
+          <first_editor relative-caret-position="440">
+            <caret line="22" column="29" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
           </first_editor>
           <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/examples/resume/summary.tex">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="291">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/examples/resume/experience.tex">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -491,9 +413,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/examples/cv/skills.tex">
+    <entry file="file://$PROJECT_DIR$/examples/resume.tex">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
+        <state relative-caret-position="940">
+          <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/resume/experience.tex">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="34" column="3" lean-forward="true" selection-start-line="34" selection-start-column="3" selection-end-line="34" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/resume/summary.tex">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
           <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
